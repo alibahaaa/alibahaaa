@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali BahaAbadi
 - 👀 I’m interested in Android Development
-- 🌱 Android Developer @ BaSalam
+- 🌱 Android Developer @BaSalam
 - 💻 Familiar with java, kotlin, Hilt , Clean Architecture, MVVM, Repository Pattern, Room and Retrofit. 
 - 📫 alibahaabadii@gmail.com
 
