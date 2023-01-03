@@ -1,5 +1,8 @@
 - 👋 Hi, I’m Ali BahaAbadi
-- 👀 Passionate, detail-oriented, quick, and talented Android Developer with four years of experience in making quality android applications. Great at Java, Kotlin,  and Android programming. Adept at prioritizing and completing tasks to meet business requirements. A team player who is attentive to detail and can work in a fast-paced environment.
+- 👀 Passionate Android Developer with 5 years of experience in making quality Android applications, from business
+requirements gathering, planning, grooming, architecting and designing, developing, demo, and retro. Team player who
+is detail-oriented and works well in a fast-paced environment. Ability to create architecture for entire project from scratch.
+The guy the iOS team has been warned about.
 - 🌱 Android Developer @ BaSalam
 - 📫 alibahaabadii@gmail.com
 
