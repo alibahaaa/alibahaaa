@@ -3,7 +3,7 @@
 requirements gathering, planning, grooming, architecting and designing, developing, demo, and retro. Team player who
 is detail-oriented and works well in a fast-paced environment. Ability to create architecture for entire project from scratch.
 The guy the iOS team has been warned about.
-- 🌱 Android Developer @ BaSalam
+- 🌱 Android Developer @ Baloot
 - 📫 alibahaabadii@gmail.com
 
 <!---
