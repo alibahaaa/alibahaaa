@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Ali BahaAbadi
-- 👀 Passionate Android Developer with 5 years of experience in making quality Android applications, from business
-requirements gathering, planning, grooming, architecting and designing, developing, demo, and retro. Team player who
-is detail-oriented and works well in a fast-paced environment. Ability to create architecture for entire project from scratch.
-The guy the iOS team has been warned about.
+- 👀 Results-driven Android Developer with a stellar 4-year track record in successfully delivering high-quality applications. Proficient in the entire software development life cycle, from precise business requirements gathering to strategic planning, grooming, architecting, designing, and final delivery. A collaborative team player with excellent communication skills, thriving in dynamic, fast-paced environments. Recognized for crafting comprehensive project architectures from inception and achieving measurable success, such as achieving a 20% reduction in app load times. Currently adept in cutting-edge technologies, including Kotlin and Java, to develop scalable and efficient applications.
 - 🌱 Android Developer @ Baloot
 - 📫 alibahaabadii@gmail.com
 
